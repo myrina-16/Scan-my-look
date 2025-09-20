@@ -1,0 +1,7 @@
+{
+  "name": "Scan My Look",
+  "description": "An AI-powered fashion assistant that helps you digitize your wardrobe, creates outfits from your clothes, and provides style feedback for any occasion.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
